@@ -1,5 +1,10 @@
 #  Programacion2
 
+## INTEGRANTES
+- FELIPE  CORTES
+- ESTEBAN URIBE
+
+
 
 - ─▌█──║─║╔═║─║─╔═╗─
 - ─███─╠═╣╠═║─║─║─║─
